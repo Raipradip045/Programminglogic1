@@ -32,14 +32,24 @@ class Program
         int age=Convert.ToInt32(Console.ReadLine);
         Console.WriteLine("Hello(name)you are (age)years old.");
        
-        num1=6
-        numb2=10
-        Calculate addition_result=num1+num2+10.
-        Calculate subtraction_result=num1-num2-2.
-        Calculate Multiplication_result=(num*num2)*3.
-        Calculate division_result=(num1/num2)/2.
-        Calculate 
+        num1=10
+        numb2=6
+         addition_result=num1+num2+10.
+         subtraction_result=num1-num2-2.
+         Multiplication_result=(num*num2)*3.
+         division_result=(num1/num2)/2.
+         modulus_result=(num1%num2)%2.
 
+        Addition Result:26
+        Subtraction Result:2
+        Multiplication Result:180
+        Division Result:.83
+        Modulus Result: 1
+
+          
+
+
+       
     
 
 
