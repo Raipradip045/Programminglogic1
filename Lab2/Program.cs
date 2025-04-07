@@ -46,6 +46,14 @@ class Program
         Division Result:.83
         Modulus Result: 1
 
+        Float myFloat=1.123456789f;
+        double myDouble=1.123456789;
+
+        System.out.printIn("Float value:"+myFLoat);
+        System.out.println('Double value:'+myDouble);
+
+
+
           
 
 
